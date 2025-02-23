@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuquyet8080&label=Profile%20views&color=0e75b6&style=flat" alt="vuquyet8080" /> </p>
-<img src="https://komarev.com/ghpvc/?username=vuquyet80800&label=Profile%20views&color=0e75b6&style=flat" alt="vuquyet80800" />
+
 
 - 📫 How to reach me **vuquyet808@gmail.com**
  <h3 align="left">Languages and Tools:</h3>
